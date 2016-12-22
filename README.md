@@ -3,7 +3,7 @@ Inicio: Diff21
 
 ## Ingresando Datos
 - n
-- n > 21
+- 21 - n
 - (n-21)*2
 
 ## Proceso
